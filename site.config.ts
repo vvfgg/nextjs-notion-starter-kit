@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Jan自留地',
-  domain: 'jan.00054321.xyz',
+  domain: 'https://comfortable-angelfish-a57.notion.site/Jan-1b657d1f8f4744fab7c9acd38f3fa8af?pvs=4',
   author: 'Jan',
 
   // open graph metadata (optional)
