@@ -2,11 +2,11 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '2cae2c875e1145f68161210ade543dbc',
+  rootNotionPageId: '1b657d1f8f4744fab7c9acd38f3fa8af',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: d265b143-9a8a-4ade-83ab-5ecf3357f075,
+  rootNotionSpaceId: 'd265b143-9a8a-4ade-83ab-5ecf3357f075',
 
   // basic site info (required)
   name: 'Jan自留地',
